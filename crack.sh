@@ -1,7 +1,7 @@
 #!/bin/bash
 
 passwd="\$6\$fsfOJy/N\$NeaIKnMtXzJpQnWGXsBDlPJTgVs5iMrNEXTaHIjv3Oq5E9cQFOiCn7EJbbmxHGsdDCN86AReZh2d43WboHlOg1"
-dict="SecLists/Passwords/darkweb2017-top1000.txt" #Dictionaire
+dict="darkweb2017-top1000.txt" #Dictionaire
 
 while IFS= read -r line
 do

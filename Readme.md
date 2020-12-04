@@ -1,0 +1,1 @@
+./crack.sh to run
